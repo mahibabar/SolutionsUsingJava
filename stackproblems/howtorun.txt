@@ -1,0 +1,12 @@
+This is gradle based project please follow along below steps to build and import it into IDE
+
+1. clone the repository
+2. got to root dir of project i.e. stackproblems
+3. how to build: 
+	Mac: gradlew clean build
+	Windows: gradlew.bat clean build
+4. how to import the project into an IDE(e.g. eclipse)
+	Mac: gradlew eclipse
+	Windows: gradlew.bat eclipse
+Now your project is ready to import in eclipse IDE similarly it can be imported to other IDEs as well like idea etc using respective gradle plugins and commands
+
